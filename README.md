@@ -10,6 +10,3 @@
  4. Replace them by their Win32 equivalent
  5. Finally run the program
 
-### How the program will be run ( 6th step )
-#### One solution retained for the moment
-1. Create a child process to which new instructions will be sent then executed 
